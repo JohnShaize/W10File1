@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf0bcb29-b418-4f92-b67d-f5ed48fa4dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../J2EE/demo/Assignment2Jisna/src/main/resources/templates/add-user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../J2EE/demo/Assignment2Jisna/src/main/resources/templates/admin-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../J2EE/demo/Assignment2Jisna/src/main/resources/templates/edit-student.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../J2EE/demo/Assignment2Jisna/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../J2EE/demo/Assignment2Jisna/src/main/resources/templates/student-home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/EmployeeManagementSystemApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/EmployeeManagementSystemApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Model/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Repository/EmployeeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Repository/EmployeeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/classes/org/example/employeemanagementsystems/Service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/test-classes/org/example/employeemanagementsystems/EmployeemanagementsystemsApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../J2EE/EmployeeManagementSystemApplication/target/test-classes/org/example/employeemanagementsystems/EmployeemanagementsystemsApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JohnShaize&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JohnShaize/j2eeActivities&quot;,
+    &quot;accountId&quot;: &quot;cef7079a-7cf5-4df9-84ba-04a10c2129b0&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ukIdoAAqGz2vvL7U3NUwDh47uI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.W10RibbonServerApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Shaize/Humber/Sem 4/Enterprise/Week10/W10_ribbon_server/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="W10RibbonServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="W10_ribbon_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.student.w10_ribbon_server.W10RibbonServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0bcb29-b418-4f92-b67d-f5ed48fa4dd9" name="Changes" comment="" />
+      <created>1742786234290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742786234290</updated>
+      <workItem from="1742786235228" duration="435000" />
+      <workItem from="1742786871035" duration="83000" />
+      <workItem from="1742787047388" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
